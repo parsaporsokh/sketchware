@@ -1,9 +1,16 @@
 [
   {
-    "bg_color": "",
-    "txt_color": "",
-    "img": "",
-    "title": "",
-    "txt": ""
+    "bg_color": "#FF0000",
+    "txt_color": "#FFFFFF",
+    "img": "https://s6.uupload.ir/files/%D8%A8%D8%A7%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C.jpeg_b6xh.jpg",
+    "title": "پارسا",
+    "txt": "اینجا نوشته خودت رو بنویس"
+  },
+  {
+    "bg_color": "#0000FF",
+    "txt_color": "#FFFFFF",
+    "img": "n",
+    "title": "امیر",
+    "txt": "اینجا نوشته خودت رو بنویس"
   }
 ]
